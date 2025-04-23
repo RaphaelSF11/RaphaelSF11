@@ -28,6 +28,6 @@ Me chamo Raphael Soares Fernandes, sou formado em Análise e Desenvolvimento de 
 
 ### 📊 Status
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelSF11&show_icons=true&theme=slateorange)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelSF11&show_icons=true&theme=react)
 
 #
