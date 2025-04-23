@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web em Formação`**
 
-Me chamo Raphael Soares Fernandes, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Sistemas para Internet pela FIAP, aprimorando ainda mais meus conhecimentos. Apaixonado em criar interfaces intuitivas, transformando ideias em código. Estou sempre em busca de novos desafios e aprendizados para evoluir na área.
+Me chamo Raphael Soares Fernandes, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Sistemas para Internet pela FIAP, aprimorando ainda mais meus conhecimentos. Apaixonado em criar interfaces intuitivas, transformando ideias em código, sempre em busca de novos desafios e aprendizados para evoluir na área.
 
     
    <p align="left">
