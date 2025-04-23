@@ -33,12 +33,12 @@ Me chamo Raphael Soares Fernandes, sou formado em Análise e Desenvolvimento de 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RaphaelSF11&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
-  />
-<br>
-<img 
+  /><br>
+  
+  <img 
       align="left" 
       alt="GitHub Stats" 
-      height="210" 
+      height="225" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelSF11&theme=react&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
