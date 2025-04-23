@@ -1,16 +1,33 @@
-## Hi there 👋
+# 💻 Raphael Fernandes
 
-<!--
-**RaphaelSF11/RaphaelSF11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Web em Formação`**
 
-Here are some ideas to get you started:
+Me chamo Raphael Soares Fernandes, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Sistemas para Internet pela FIAP, aprimorando ainda mais meus conhecimentos. Apaixonado em criar interfaces intuitivas, transformando ideias em código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <p align="left">
+      <a href="https://www.linkedin.com/in/raphael-fernandes-12333515b/" target="_blank">
+    <img alt="Linkedin" title="Me siga no linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width = "120">
+  </a>
+  <a href="https://www.instagram.com/raphafrns_?igsh=dzhlbTVmb2V0ZDBt&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width = "135">
+  </a>
+   </p>
+
+---
+
+###  Tecnologias
+
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<br />
+
+<br>
+
+### 📊 Status
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelSF11&show_icons=true&theme=slateorange)
+
+#
