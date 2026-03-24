@@ -7,9 +7,7 @@ Me chamo Raphael Soares Fernandes, sou formado em Análise e Desenvolvimento de 
     
    <p align="left">
       <a href="https://www.linkedin.com/in/raphael-fernandes-12333515b/" target="_blank">
-    <img alt="Linkedin" title="Me siga no linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width = "120"> <a href="https://www.instagram.com/raphafrns_?igsh=dzhlbTVmb2V0ZDBt&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width = "135">
-  </a>
+    <img alt="Linkedin" title="Me siga no linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width = "120">
    </p>
 
 ---
